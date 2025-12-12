@@ -1,0 +1,27 @@
+{
+  "name": "nodesoup.cxx",
+  "version": "1.2020.9",
+  "description": "Force-directed graph layout with Fruchterman-Reingold; Olivier (2018).",
+  "keywords": [
+    "cxx",
+    "library",
+    "graph",
+    "layout",
+    "force-directed",
+    "fruchterman-reingold"
+  ],
+  "homepage": "https://github.com/nodef/nodesoup.cxx#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/nodesoup.cxx/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/nodesoup.cxx.git"
+  },
+  "license": "UNLICENSED",
+  "author": "wolfram77@gmail.com",
+  "main": "nodesoup.hpp",
+  "scripts": {
+    "test": "exit"
+  }
+}
